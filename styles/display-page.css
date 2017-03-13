@@ -1,0 +1,41 @@
+section {
+	/*padding: 30px;*/
+	width: 800px;
+	font-size: 0;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.row-one {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+}
+
+.row-two {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+}
+
+.inner-one {
+	background-color: green;
+}
+
+.inner-two {
+	background-color: blue;
+}
+
+.inner-three {
+	background-color: grey;
+}
+
+.inner-four {
+	background-color: black;
+}
+
+.inner-five {
+	background-color: orange;
+}
